@@ -1,4 +1,4 @@
-# powerbi-HR-Analytics_Dashboard
+# Powerbi-HR-Analytics_Dashboard
 # 📊 HR Analytics Dashboard | Power BI Project
 
 ![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow)
